@@ -1,0 +1,38 @@
+body {
+    /* background-image: ; */
+    background-repeat:no repeat ;
+    background-position:center;
+    /* background-attachment: scroll; */
+    background-color: black;
+    
+}
+h1{
+    color: red;
+}
+#paral {
+    border-style: solid;
+    color: aqua;
+    background-color: blueviolet;
+    border-radius: 20px;
+    border-top-style: dotted;
+    border-left-style:solid ;
+    border-right-style:dashed ;
+    border-bottom-style: double;
+    
+}
+#param2 {
+    border-style: dashed;
+    color: brown;
+    background-color: antiquewhite;
+    border-radius:10px ;
+    border-top-style:solid ;
+    border-right-style:dotted ;
+    border-left:double ;
+    border-bottom-style: double;
+}
+.one {
+    font-style: italic;
+    font-size: 10px;
+    color:darkgray;
+    background-color: dodgerblue;
+}
