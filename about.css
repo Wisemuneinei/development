@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+.about{
+    background-color:white;
+    color:black;
+    width:200 px;
+    height:100%;
+    position:fixed;
+    padding-top:10px;
+    top:0;
+    left:0;
+
+}
+
+.kurias_main_content{
+    margin-left:301px;
+    padding-top: 15px;
+    
+
+
+
+}
+.about ul li{
+    list-style:none;
+    text-decoration:none;
+    padding:7.6px;
+
+}
+
+.about ul li a{
+    text-decoration:none;
+}
